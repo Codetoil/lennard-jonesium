@@ -1,0 +1,4 @@
+[submodule "quarkstrom"]
+	path = quarkstrom
+	url = https://github.com/DenneMan/quarkstrom.git
+	branch = ce8ad3b90523b48129629900aa4fe5b15b6f0d71
